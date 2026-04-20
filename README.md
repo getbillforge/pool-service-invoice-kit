@@ -1,1 +1,1 @@
-# pool-invoice-demo
+# pool-service-invoice-demo
